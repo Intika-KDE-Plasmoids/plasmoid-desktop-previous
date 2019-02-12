@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Desktop Previous Button
+Comment=Send Active Window To Previous Virtual Desktop With A Click  
+
+Type=Service
+Icon=window
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/Main.qml
+
+X-KDE-PluginInfo-Author=Intika
+X-KDE-PluginInfo-Email=intika@librefox.org
+X-KDE-PluginInfo-Name=com.github.intika.desktopprevious
+X-KDE-PluginInfo-Version=6
+X-KDE-PluginInfo-Website=https://github.com/Intika-Linux-Plasmoid/plasmoid-desktop-previous
+X-KDE-PluginInfo-Category=Windows and Tasks
